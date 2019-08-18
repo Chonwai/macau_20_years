@@ -1,7 +1,7 @@
 <template>
   <div class="home w-screen h-screen bg-center flex justify-center relative">
-    <Map class="absolute top-0"/>
-    <input class="absolute bottom-0 p-4" type="range" name="" id="" min="1999" max="2019" value="1999">
+    <Map class="absolute top-0" />
+    <input class="absolute bottom-0 p-4" type="range" name id min="1999" max="2019" value="1999" />
     <div class="language-group absolute top-0 right-0">
       <button class="w-12 h-12 border border-gray-500 m-2 rounded" @click="$i18n.locale = 'cn'">中</button>
       <button class="w-12 h-12 border border-gray-500 m-2 rounded" @click="$i18n.locale = 'en'">EN</button>
@@ -12,7 +12,7 @@
 
 <script>
 // @ is an alias to /src
-import Map from "@/components/Map/Map.vue"
+import Map from "@/components/Map/Map.vue";
 
 export default {
   name: "home",
@@ -25,7 +25,9 @@ export default {
 <style lang="scss" scoped>
 .home {
   // background-image: url("../assets/images/base_map_1999.png");
+  background-image: url("../assets/images/bg01.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="point-container relative bounce" @click="showInfo">
+  <div class="point-container relative cursor-pointer" @click="showInfo">
     <img
       class="w-hull h-full rounded object-cover object-center"
       :src="imgURL"
@@ -102,5 +102,9 @@ export default {
 .point-container {
   width: 5%;
   height: 5%;
+}
+
+.point-container:hover {
+  @apply bounce;
 }
 </style>
