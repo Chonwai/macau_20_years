@@ -1,18 +1,26 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="home w-screen h-screen bg-center flex justify-center">
+    <Map />
+    <input class="absolute bottom-0 p-4" type="range" name="" id="" min="1999" max="2019" value="1999">
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import Map from "@/components/Map/Map.vue"
 
 export default {
-  name: 'home',
+  name: "home",
   components: {
-    HelloWorld
+    Map
   }
-}
+};
 </script>
+
+<style lang="scss" scoped>
+.home {
+  // background-image: url("../assets/images/base_map_1999.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
