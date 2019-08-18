@@ -4,6 +4,11 @@ import router from './router'
 import store from './store'
 import './assets/tailwind.css'
 import i18n from './i18n'
+import VueSweetalert2 from 'vue-sweetalert2';
+import 'sweetalert2/dist/sweetalert2.min.css'
+import './assets/sweetAlert2.scss'
+
+Vue.use(VueSweetalert2);
 
 Vue.config.productionTip = false
 

@@ -1,8 +1,8 @@
 <template>
-  <div class="point-container relative bounce">
+  <div class="point-container relative bounce" @click="showInfo">
     <img
       class="w-hull h-full rounded object-cover object-center"
-      :src="url"
+      :src="imgURL"
       alt
       srcset
       ref="pointImg"
@@ -14,33 +14,34 @@
 export default {
   name: "Point",
   props: {
-      placeName: {
-          type: String,
-          default: ''
-      },
-      id: {
-          type: Number,
-          default: ''
-      },
-      url: {
-          type: String,
-          default: ''
-      }
+    placeName: {
+      type: String,
+      default: ""
+    },
+    id: {
+      type: Number,
+      default: ""
+    }
   },
   data() {
     return {
-        imgURL: null
+      imgURL: null
     };
   },
-  created() {
-    console.log(this.placeName);
+  methods: {
+    showInfo(e) {
+      this.$swal.fire({
+        title: "大三巴牌坊",
+        text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        imageUrl: this.imgURL,
+        imageWidth: 400,
+        imageHeight: 400,
+        imageAlt: "Custom image"
+      });
+    }
   },
   mounted() {
-    this.imgURL = '../../assets/images/' + this.placeName + '.png';
-    // this.imgURL = 'https://i.ytimg.com/vi/1roy4o4tqQM/maxresdefault.jpg';
-    console.log(this.imgURL);
-    // '../../assets/images/' + placeName + '.png'
-    // this.$refs.pointImg.src = 'https://i.ytimg.com/vi/1roy4o4tqQM/maxresdefault.jpg'
+    this.imgURL = require("../../assets/images/" + this.placeName + ".png");
   }
 };
 </script>
