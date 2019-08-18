@@ -2,10 +2,10 @@
   <div class="home w-screen h-screen bg-center flex justify-center relative">
     <Map class="absolute top-0"/>
     <input class="absolute bottom-0 p-4" type="range" name="" id="" min="1999" max="2019" value="1999">
-    <div claas="language-group">
-      <button @click="$i18n.locale = 'cn'">中</button>
-      <button @click="$i18n.locale = 'en'">EN</button>
-      <button @click="$i18n.locale = 'pt'">PT</button>
+    <div class="language-group absolute top-0 right-0">
+      <button class="w-12 h-12 border border-gray-500 m-2 rounded" @click="$i18n.locale = 'cn'">中</button>
+      <button class="w-12 h-12 border border-gray-500 m-2 rounded" @click="$i18n.locale = 'en'">EN</button>
+      <button class="w-12 h-12 border border-gray-500 m-2 rounded" @click="$i18n.locale = 'pt'">PT</button>
     </div>
   </div>
 </template>
