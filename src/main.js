@@ -16,5 +16,8 @@ new Vue({
     router,
     store,
     i18n,
+    created() {
+        this.$i18n.locale = 'cn'
+    },
     render: h => h(App)
 }).$mount('#app')
