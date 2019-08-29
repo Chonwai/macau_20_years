@@ -1,8 +1,12 @@
 <template>
   <div class="map-container relative">
     <img
-      class="w-full h-full object-contain object-center absolute opacity-75"
-      src="../../assets/images/base_map_1999.png"
+      class="w-full h-full object-contain object-center absolute opacity-80"
+      src="../../assets/images/base_map_1999.png" ref="map" v-if="mapYear == 1999"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute opacity-80"
+      src="../../assets/images/base_map_2000.png" ref="map" v-else-if="mapYear == 2000"
     />
     <img class="pin absolute h-auto top-0 left-0" src="../../assets/images/pin_r.png" alt srcset />
     <img class="pin absolute h-auto top-0 right-0" src="../../assets/images/pin_l.png" alt srcset />
@@ -44,10 +48,25 @@ import Point from "../Point/Point";
 export default {
   name: "Map",
   data() {
-    return {};
+    return {
+      mapYear: 1999,
+      mapURL: '../../assets/images/base_map_1999.png'
+    };
   },
   components: {
     Point
+  },
+  computed: {
+    getCurrentYear() {
+      let currentYear = this.$store.getters.getCurrentYear;
+      return currentYear;
+    }
+  },
+  watch: {
+    getCurrentYear(year) {
+      console.log(year);
+      this.mapYear = year;
+    }
   }
 };
 </script>

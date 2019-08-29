@@ -4,13 +4,20 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 
 export default new Vuex.Store({
-  state: {
+    state: {
+        currentYear: 1999
+    },
+    mutations: {
+        setCurrentYear(state, year) {
+            state.currentYear = year
+        },
+    },
+    actions: {
 
-  },
-  mutations: {
-
-  },
-  actions: {
-
-  }
+    },
+    getters: {
+        getCurrentYear(state) {
+            return state.currentYear
+        }
+    }
 })
