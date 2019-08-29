@@ -32,8 +32,61 @@
       class="w-full h-full object-contain object-center absolute"
       src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2006"
     />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2007"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2008"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2009"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2010"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2011"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2012"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2013"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2014"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2015"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2016"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2017"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2018"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2019"
+    />
     <img class="pin absolute h-auto top-0 left-0" src="../../assets/images/pin_r.png" alt srcset />
     <img class="pin absolute h-auto top-0 right-0" src="../../assets/images/pin_l.png" alt srcset />
+    <h3 class="absolute h-auto w-full top-0 mx-auto text-3xl font-bold p-4">{{mapYear}}</h3>
     <Point
       class="absolute point-1"
       placeName="RuinsOfStPauls"
