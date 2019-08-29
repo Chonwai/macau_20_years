@@ -27,7 +27,7 @@ export default {
 <style lang="scss" scoped>
 .home {
   // background-image: url("../assets/images/base_map_1999.png");
-  background-image: url("../assets/images/bg02.jpg");
+  background-image: url("../assets/images/bg03.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

@@ -1,12 +1,36 @@
 <template>
   <div class="map-container relative">
     <img
-      class="w-full h-full object-contain object-center absolute opacity-90"
-      src="../../assets/images/base_map_1999.png" ref="map" v-if="mapYear == 1999"
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_1999.jpg" ref="map" v-show="mapYear == 1999"
     />
     <img
-      class="w-full h-full object-contain object-center absolute opacity-80"
-      src="../../assets/images/base_map_2000.png" ref="map" v-else-if="mapYear == 2000"
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2000.jpg" ref="map" v-show="mapYear == 2000"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2001.jpg" ref="map" v-show="mapYear == 2001"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2002.jpg" ref="map" v-show="mapYear == 2002"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2003.jpg" ref="map" v-show="mapYear == 2003"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2004.jpg" ref="map" v-show="mapYear == 2004"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2005.jpg" ref="map" v-show="mapYear == 2005"
+    />
+    <img
+      class="w-full h-full object-contain object-center absolute"
+      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2006"
     />
     <img class="pin absolute h-auto top-0 left-0" src="../../assets/images/pin_r.png" alt srcset />
     <img class="pin absolute h-auto top-0 right-0" src="../../assets/images/pin_l.png" alt srcset />
@@ -79,6 +103,10 @@ export default {
   // background-size: contain;
   width: calc(95vh * 1.41421356);
   height: calc(95vh);
+
+  img {
+    @apply opacity-90;
+  }
 
   .pin {
     width: 6%;
