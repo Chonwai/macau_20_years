@@ -1,7 +1,7 @@
 <template>
   <div class="map-container relative">
     <img
-      class="w-full h-full object-contain object-center absolute opacity-80"
+      class="w-full h-full object-contain object-center absolute opacity-90"
       src="../../assets/images/base_map_1999.png" ref="map" v-if="mapYear == 1999"
     />
     <img
