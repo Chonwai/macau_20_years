@@ -34,55 +34,55 @@
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2007"
+      src="../../assets/images/base_map_2007.jpg" ref="map" v-show="mapYear == 2007"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2008"
+      src="../../assets/images/base_map_2008.jpg" ref="map" v-show="mapYear == 2008"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2009"
+      src="../../assets/images/base_map_2009.jpg" ref="map" v-show="mapYear == 2009"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2010"
+      src="../../assets/images/base_map_2010.jpg" ref="map" v-show="mapYear == 2010"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2011"
+      src="../../assets/images/base_map_2011.jpg" ref="map" v-show="mapYear == 2011"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2012"
+      src="../../assets/images/base_map_2012.jpg" ref="map" v-show="mapYear == 2012"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2013"
+      src="../../assets/images/base_map_2013.jpg" ref="map" v-show="mapYear == 2013"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2014"
+      src="../../assets/images/base_map_2014.jpg" ref="map" v-show="mapYear == 2014"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2015"
+      src="../../assets/images/base_map_2015.jpg" ref="map" v-show="mapYear == 2015"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2016"
+      src="../../assets/images/base_map_2016.jpg" ref="map" v-show="mapYear == 2016"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2017"
+      src="../../assets/images/base_map_2017.jpg" ref="map" v-show="mapYear == 2017"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2018"
+      src="../../assets/images/base_map_2018.jpg" ref="map" v-show="mapYear == 2018"
     />
     <img
       class="w-full h-full object-contain object-center absolute"
-      src="../../assets/images/base_map_2006.jpg" ref="map" v-show="mapYear == 2019"
+      src="../../assets/images/base_map_2018.jpg" ref="map" v-show="mapYear == 2019"
     />
     <img class="pin absolute h-auto top-0 left-0" src="../../assets/images/pin_r.png" alt srcset />
     <img class="pin absolute h-auto top-0 right-0" src="../../assets/images/pin_l.png" alt srcset />
