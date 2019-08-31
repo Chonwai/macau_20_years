@@ -1,7 +1,7 @@
 <template>
   <div class="home w-screen h-screen bg-center flex justify-center relative">
-    <Map class="absolute top-0" />
-    <Timeline class="absolute bottom-0 p-4" />
+    <Map class="top-0" />
+    <Timeline class="absolute bottom-0 pb-4 w-full" />
   </div>
 </template>
 

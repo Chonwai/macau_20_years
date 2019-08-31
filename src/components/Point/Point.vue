@@ -41,22 +41,14 @@ export default {
     }
   },
   mounted() {
-    this.imgURL = require("../../assets/images/building/" + this.placeName + ".png");
+    this.imgURL = require("../../assets/images/building/" +
+      this.placeName +
+      ".png");
   }
 };
 </script>
 
 <style lang="scss" scoped>
-// .point-container::after {
-//   content: "";
-//   position: absolute;
-//   top: calc(4rem - 2px);
-//   left: calc(1rem);
-//   border-left: 1rem solid transparent;
-//   border-right: 1rem solid transparent;
-//   border-top: 1rem solid #718096;
-// }
-
 @keyframes bounce {
   from,
   20%,
