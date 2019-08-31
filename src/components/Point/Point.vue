@@ -1,7 +1,7 @@
 <template>
-  <div class="point-container relative cursor-pointer" @click="showInfo">
+  <div class="point-container cursor-pointer" @click="showInfo">
     <img
-      class="w-hull h-full rounded object-cover object-center"
+      class="w-hull h-full rounded object-cover object-center absolute"
       :src="imgURL"
       alt
       srcset
@@ -31,17 +31,17 @@ export default {
   methods: {
     showInfo(e) {
       this.$swal.fire({
-        title: this.$t('location.place1.name'),
-        text: this.$t('location.place1.information'),
+        title: this.$t(`location.${this.id}.name`),
+        text: this.$t(`location.${this.id}.information`),
         imageUrl: this.imgURL,
         imageWidth: 500,
         imageHeight: 500,
-        imageAlt: this.$t('location.place1.name')
+        imageAlt: this.$t(`location.${this.id}.name`)
       });
     }
   },
   mounted() {
-    this.imgURL = require("../../assets/images/" + this.placeName + ".png");
+    this.imgURL = require("../../assets/images/building/" + this.placeName + ".png");
   }
 };
 </script>

@@ -1,8 +1,72 @@
 {
     "location": {
-        "place1": {
+        "1": {
             "name": "Ruínas de São Paulo",
-            "information": "As Ruínas de São Paulo em Macau são as ruínas da antiga Igreja da Madre de Deus e do adjacente Colégio de São Paulo, importante complexo do século XVI destruído por um incêndio em 1835. A antiga Igreja da Madre de Deus, o Colégio de São Paulo e a Fortaleza do Monte foram todas construídas pelos jesuítas e este conjunto pode ser identificado como a 'Acrópole de Macau'. Tudo o que resta da maior e mais bela das igrejas de Macau é a imponente fachada de granito e a escadaria monumental de 68 degraus. Em contrapartida, não restou muitas coisas do Colégio."
+            "information": "As Ruínas de São Paulo em Macau são as ruínas da antiga Igreja da Madre de Deus e do adjacente Colégio de São Paulo. As Ruínas de São Paulo, juntamente com a Fortaleza do Monte, estão incluídos na Lista dos monumentos históricos do Centro Histórico de Macau, por sua vez incluído na Lista do Património Mundial da Humanidade da UNESCO. As Ruínas de São Paulo são um dos melhores exemplos do valor universal excepcional de Macau."
+        },
+        "2": {
+            "name": "Praça Flor de Lodão",
+            "information": "A Praça Flor de Lodão ou Praça Flor de Lótus é uma praça pública situada em frente ao Museu do Grande Prémio na Região Administrativa Especial de Macau da República Popular da China. A área possui a grande escultura de bronze A Flor de Lodão em Plena Floração ou Flor de Lótus Desabrochada. A Flor de Lótus Desabrochada simboliza a prosperidade eterna de Macau. A escultura foi apresentada pelo Conselho de Estado da República Popular da China em 1999 para celebrar a transferência de soberania de Macau de Portugal a China."
+        },
+        "3": {
+            "name": "Hotel Lisboa Macau",
+            "information": "Projetado pelos arquitetos Ganzi, o Lisboa Hotel foi inaugurado em 11 de junho de 1970, quando era o maior hotel de Macau e o primeiro hotel cinco estrelas de Macau. Depois de mais de 30 anos de expansão contínua, o Hotel Lisboa é agora composto por três edifícios interligados em amarelo e branco, cujo tema é o estilo português da gaiola. Seu edifício principal é um edifício cilíndrico em estilo português que se parece com uma gaiola à distância."
+        },
+        "4": {
+            "name": "Templo de A-Má",
+            "information": "O Pavilhão Mazu é um dos edifícios históricos de Macau e hoje é o mais antigo dos três templos antigos de Macau.O nome português “Macau” em Macau deriva da transliteração do nome do templo “Ma Ge”. Em 2005, foi incluído na Lista do Patrimônio Cultural Mundial como parte do distrito histórico de Macau. A lendária sogra levou o barco para o mar de sua cidade natal e experimentou o tufão e as ondas, e chegou à Austrália com segurança."
+        },
+        "5": {
+            "name": "Torre de Macau",
+            "information": "A Torre de Macau foi construída em 2001 na cidade de Macau, China. Tem 338 metros de altura, até julho de 2019, e é 22. Uma torre de estrutura independente mais alta do mundo.Macau Tower é um edifício que combina instalações de turismo, convenções, exposições e entretenimento, e é um dos pontos de referência mais famosos de Macau. O Centro de Convenções e Entretenimento da Torre de Macau foi projetado pelo famoso arquiteto neozelandês Gordon Moller. A Torre de Macau tem 338 metros de altura. O Centro de Convenções e Entretenimento da Torre de Macau e a Torre de Macau estão integrados em um e o porão é usado como piso de conexão. O Centro de Convenções e Exposições da Torre de Macau tem um total de cinco andares no primeiro andar do porão."
+        },
+        "6": {
+            "name": "Festival de Gastronomia de Macau",
+            "information": "O Festival de Culinária de Macau é o carnaval gastronômico anual de Macau. O primeiro Festival de Culinária de Macau foi realizado no final de 2001. A escala do festival gastronômico continua a se expandir, do local ao internacional, dos festivais de comida pura aos carnavais gourmet. Nos últimos anos, também foram adicionados fogos de artifício, exposições, jogos de cabine, apresentações de música e dança, e foram realizadas competições de fotografia para promover atividades de fotografia, tornando o festival gastronômico mais diversificado. Desde 2003, o festival gastronômico acontece em conjunto com o Grande Prêmio de Macau, permitindo que os fãs apreciem o carro e visitem o carnaval gourmet."
+        },
+        "7": {
+            "name": "Museu das Ofertas sobre a Transferéncia de Soberania de Macau",
+            "information": "O principal objectivo deste novo Museu é comemorar a transição, como uma data inesquecível para a população e, uma das mais importantes da história moderna de Macau. A inauguração do Museu por ocasião do quinto aniversário da transferência de soberania é igualmente significativa e comemorativa. O edifício do Museu das Ofertas sobre a Transferência de Soberania de Macau é composto por três pisos. No primeiro piso situa-se a entrada e a recepção, além dos serviços administrativos do Museu. O segundo piso apresenta uma galeria de exposições com os presentes ofertados pela Transferência e, a galeria de exposições especiais."
+        },
+        "8": {
+            "name": "Sands Macau",
+            "information": "Sands Macao é um resort de hotel e cassino localizado em Sé, Macau, China. É de propriedade e operado pela Las Vegas Sands Corporation e foi projetado pela Steelman Partners, LLP. O presidente do Las Vegas Sands, Sheldon Adelson, disse que em breve sua empresa será uma empresa principalmente chinesa e que Las Vegas deve ser chamada de América da Macau’ .The name ‘Sands’ is derived from the Sands Casino Hotel in Las Vegas, Nevada, USA. In March 2006, Sands Casino and Lisboa Casino and Mandarin Oriental Casino were selected for the list of the 13 most popular casinos in the world selected by Forbes magazine."
+        },
+        "9": {
+            "name": "Doca dos Pescadores de Macau",
+            "information": "O Cais dos Pescadores de Macau é o primeiro parque temático e shopping de Macau que se assemelha ao Cais dos Pescadores da Europa e da América.. Cobrindo uma área de mais de 133.000 metros quadrados, o belo complexo Continental conta com o Babylon Casino, o Firebird Casino, o Centro de Convenções e Exposições, o Rice Hotel, o Regent Seaview Hotel, a Marina e as instalações de comida, compras e entretenimento. Proporcionar uma experiência de entretenimento única e diversificada para viajantes de todo o mundo, demonstrando plenamente o encanto de Macau."
+        },
+        "10": {
+            "name": "Wynn Macau",
+            "information": "Este é o primeiro hotel modelo de cassino integrado de resort de Las Vegas em Macau. Construído pela lenda de Las Vegas Steven Allen Wynn, o Wynn Resort Group abre cassinos em Las Vegas e Macau. Ele é conhecido como o ‘pai de Las Vegas’. A fonte musical na entrada principal do Wynn Hotel é um espetáculo muito atraente, é a primeira fonte musical em Macau com um bico móvel e também há uma chama na sala para se apresentar com a fonte."
+        },
+        "11": {
+            "name": "The Venetian Macau",
+            "information": "O hotel é um importante projeto de construção em grande escala da Venetian (Macau) Co., Ltd. na área da Golden Light Avenue, que integra entretenimento de jogos em larga escala, cassinos, convenções, hotéis e apresentações e elementos de compras. O hotel tem como tema as águas venezianas e está cheio de arcos venezianos, pequenos canais e estradas de pedra. Desde que o conceito do Venetian Macao Resort Hotel se originou no Venetian Resort Las Vegas, foi considerado uma réplica do último."
+        },
+        "12": {
+            "name": "Grand Lisboa Hotel",
+            "information": "O Grand Lisboa Hotel foi inaugurado em 2008 e tornou-se o segundo edifício mais alto depois da Torre de Macau. O Grand Lisboa Hotel é um marco importante em Macau. Existem oito restaurantes no hotel, que são mais adequados para a culinária. No meio do saguão do Grand Lisboa Hotel, um deslumbrante diamante nacional ‘Ho Hung Hom Star’’ foi exibido. Este é o maior diamante raro em almofada do mundo, com até 218,08 cartões, classificado como o corte mais perfeito, a simetria perfeita e o diamante nacional em mais de uma cor D da mais alta qualidade pela organização GIA.O diamante recebeu o nome do Dr. Stanley Ho, refletindo as ações dos jogos de Macau. Ltd. busca de altos padrões e compromisso com os clientes."
+        },
+        "13": {
+            "name": "Centro de Ciência de Macau",
+            "information": "O Centro de Ciência de Macau  visa promover a popularização e ensino da ciência entre os jovens locais, complementar o desenvolvimento turístico em Macau e fornecer uma plataforma regional para a educação da ciência, organização de convenções e exposições. Há ainda duas galerias reservadas para exposições especiais. As exposições procuram fornecer expositores interactivos que combinem o conhecimento, a ciência e a diversão, permitindo aos visitantes explorar a ciência de uma forma directa e prática.O Centro de Convenções inclui um Salão de Convenções multifuncional e quatro Salas de Reunião."
+        },
+        "14": {
+            "name": "Universidade de Macau",
+            "information": "A Universidade de Macau anteriormente conhecida como Universidade Particular do Leste Asiático, criada em 1981, é a primeira universidade de pesquisa em Macau e a única universidade a introduzir totalmente um sistema residencial de faculdades. Depois de se mudar para o Novo Campus de Hengqin em 2014, a Universidade de Macau visou claramente a transição para uma universidade de pesquisa e promoveu o modelo ‘Quatro Educação’, baseado no modelo educacional ‘Quatro em Um’. Desde a fundação da escola, tenho cultivado talentos notáveis que contribuíram para a sociedade em Macau, no país e no mundo."
+        },
+        "15": {
+            "name": "Festival de Luz e Sombra de Macau",
+            "information": "O Festival de Luz e Sombra de Macau é rico em conteúdo, além de esculturas de luz, luminárias e jogos interativos, além de uma série de atividades, incluindo exposições de artes visuais de luz e sombra, concertos locais ao ar livre, exibições de filmes ao ar livre e jantares de luz e sombra, etc., e lançará produtos culturais de luz e sombra. . O Jantar Luz e Sombra foi realizado em colaboração com dois restaurantes de Macau para trazer um banquete especial de luz e sombra à comida e injetar Macau em um poder criativo da ‘Cidade das Cidades Criativas’ da UNESCO."
+        },
+        "16": {
+            "name": "Macau parisienseo",
+            "information": "O Macau parisiense está localizado na seção da Avenida Jinguang da cidade de Bohai, distrito de Ouhai, e foi projetado como um marco histórico com metade da Torre Eiffel em Paris. Originalmente programado para abrir em 2015, foi adiado para abrir em agosto de 2016, e o hotel foi inaugurado em 13 de setembro de 2016."
+        },
+        "17": {
+            "name": "Metro Ligeiro de Macau",
+            "information": "O Macau parisiense está localizado na seção da Avenida Jinguang da cidade de Bohai, distrito de Ouhai, e foi projetado como um marco histórico com metade da Torre Eiffel em Paris. Originalmente programado para abrir em 2015, foi adiado para abrir em agosto de 2016, e o hotel foi inaugurado em 13 de setembro de 2016."
         }
     }
 }

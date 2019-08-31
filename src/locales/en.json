@@ -1,8 +1,72 @@
 {
     "location": {
-        "place1": {
+        "1": {
             "name": "Ruins of St. Paul's",
-            "information": "The Ruins of St. Paul's (Chinese: 大三巴牌坊; Portuguese: Ruínas de São Paulo) are the ruins of a 17th-century complex in Santo António, Macau, China. It includes what was originally St. Paul's College and the catholic Church of St. Paul also known as 'Mater Dei', a 17th-century Portuguese church dedicated to Saint Paul the Apostle. Today, the ruins are one of Macau's best known landmarks. They are often, but incorrectly, mentioned as a former cathedral (see Macau Cathedral), a status they never had. In 2005, they were officially listed as part of the Historic Centre of Macau, a UNESCO World Heritage Site."
+            "information": "The Ruins of St. Paul's are the ruins of a  complex in Santo António, Macau, China. It includes what was originally St. Paul's College and the catholic Church of St. Paul also known as ‘Mater Dei’, a 17th-century Portuguese church dedicated to Saint Paul the Apostle. Today, the ruins are one of Macau's best known landmarks. In 2005, they were officially listed as part of the Historic Centre of Macau, a UNESCO World Heritage Site."
+        },
+        "2": {
+            "name": "Lotus Square",
+            "information": "The Lotus Square or Golden Lotus Square is an open square in Sé, Macau, China. The area features the large bronze sculpture Lotus Flower In Full Bloom.The lotus flower in full bloom symbolises the everlasting prosperity of Macau. The sculpture was presented by the State Council of the People's Republic of China in 1999 to mark the transfer of the sovereignty of Macau from Portugal to China.The flag-raising ceremony at the Golden Lotus Square was held at 8 am every day, and the flag-raising ceremony was held at 6 pm. When the flag-raising ceremony is held, the national anthem of the People's Republic of China will be broadcast on the spot, and the flag-raising ceremony will not be broadcast."
+        },
+        "3": {
+            "name": "Casino Lisboa",
+            "information": "Casino Lisboa is a hotel casino in Sé, Macau, China. The casino is owned by the Sociedade de Turismo e Diversões de Macau, a Stanley Ho company. This three-storey complex was built in late 1960s.After more than 30 years of continuous expansion, the Lisboa Hotel is now composed of three yellow and white connected buildings. The theme of the building is the Portuguese style with the birdcage. Its main building is a cylindrical Portuguese-style building that looks like a bird cage from a distance."
+        },
+        "4": {
+            "name": "A-Ma Temple",
+            "information": "The A-Ma Temple is a temple to the Chinese sea-goddess Mazu located in São Lourenço, Macau, China. Built in 1488, the temple is one of the oldest in Macau and thought to be the settlement's namesake.In 2005, it was included in the World Cultural Heritage List as part of the historic district of Macau. In the courtyard, there are Chinese sailing stone carvings. The legendary mother-in-law took the boat to the sea from her hometown and experienced the typhoon and waves, and arrived in Australia safely."
+        },
+        "5": {
+            "name": "Macao Tower",
+            "information": "Macau Tower is a building that combines sightseeing, convention, exhibition and entertainment facilities. It is one of Macau's famous landmarks. It is also the 6th in China and the 21st independent sightseeing tower in the world. The Macau Tower Convention and Entertainment Center was designed by the famous New Zealand architect Gordon Moller. The Macau Tower is 338 meters high. The Macau Tower Convention and Entertainment Center and the Macau Tower are integrated into one and the basement is used as a connecting floor. The Macau Tower Convention and Exhibition Center have a total of five floors on the first floor of the basement."
+        },
+        "6": {
+            "name": "The Macao Food Festival",
+            "information": "The Macau Food Festival is Macau's annual food carnival. The first Macau Food Festival was held in late 2001. The scale of the food festival continues to expand, from local to international, from pure food festivals to gourmet carnivals. In recent years, fireworks displays, exhibitions, booth games, song and dance performances have also been added, and photography competitions have been held to promote photography activities, making the food festival more diversified. Since 2003, the food festival has been held in conjunction with the Macau Grand Prix, allowing fans to enjoy the car and visit the gourmet carnival."
+        },
+        "7": {
+            "name": "Handover Gifts Museum of Macao",
+            "information": "The main aim of the Handover Gifts Museum of Macao is to commemorate the handover for its significance in Macao’s modern history. The inauguration of the Museum on the 5th anniversary of the handover is also indeed significant and momentous.The first floor is the lobby, entrance and also contains the Museum's administrative offices. The second floor features the handover gifts exhibition gallery and the special exhibition gallery. The third floor contains the auditorium."
+        },
+        "8": {
+            "name": "Sands Macao",
+            "information": "Sands Macao is a hotel and casino resort located in Sé, Macau, China. It is owned and operated by the Las Vegas Sands Corporation, and was designed by Steelman Partners, LLP. It comprises a 229,000 square feet casino, and a 289-suite hotel. Las Vegas Sands chairman Sheldon Adelson has said that his company will soon be a mainly Chinese enterprise, and that Las Vegas should be called ‘America's Macau’. The name ‘Sands’ is derived from the Sands Casino Hotel in Las Vegas, Nevada, USA. In March 2006, Sands Casino and Lisboa Casino and Mandarin Oriental Casino were selected for the list of the 13 most popular casinos in the world selected by Forbes magazine."
+        },
+        "9": {
+            "name": "Macau Fisherman's Wharf",
+            "information": "Macau Fisherman's Wharf is Macau's first theme park and shopping mall that resembles the European and American Fisherman's Wharf. Covering an area of over 133,000 square meters, the beautiful Continental complex features the Babylon Casino, Firebird Casino, Convention and Exhibition Center, Rice Hotel, Regent Seaview Hotel, Marina and food, shopping and entertainment facilities To provide a unique and diverse entertainment experience for travellers from all over the world, fully demonstrating the charm of Macau."
+        },
+        "10": {
+            "name": "Wynn Macau",
+            "information": "This is Macau's first Las Vegas integrated resort model casino hotel. Built by Las Vegas legend Steven Allen Wynn, the Wynn Resort Group opens casinos in Las Vegas and Macau. He is known as the ‘father of Las Vegas’. The music fountain at the main entrance of the Wynn Hotel is a very eye-catching show of the hotel. It is the first musical fountain in Macau with a movable nozzle, and there is also a flame in the room to perform with the fountain. The huge lake-style fountain changes, twists and spurs with the melody and rhythm of the music."
+        },
+        "11": {
+            "name": "The Venetian Macao",
+            "information": "The hotel is a key large-scale construction project of the Venetian (Macau) Co., Ltd. in the Golden Light Avenue area, which integrates large-scale gaming entertainment, casinos, conventions, hotels and performances, and shopping elements. The hotel is themed around the Venetian waters, and the hotel is full of Venetian arches, small canals and stone roads. Since the concept of the Venetian Macao Resort Hotel originated from the Venetian Resort Las Vegas, it has been regarded as a replica of the latter."
+        },
+        "12": {
+            "name": "The Grand Lisboa Hotel",
+            "information": "The Grand Lisboa Hotel opened in 2008 and became the second tallest building after the Macau Tower. The Grand Lisboa Hotel is a prominent landmark in Macau. There are eight restaurants in the hotel, which are more suitable for the cuisine. In the middle of the lobby of the Grand Lisboa Hotel, a dazzling national diamond ‘Ho Hung Hom Star’ was displayed. This is the world's largest rare cushion diamond, up to 218.08 cards, which is rated as the world's most perfect cut, perfect symmetry and the highest color D-color national diamond by the GIA organization. The diamond is named after Dr. Stanley Ho, reflecting the Macau gaming shares. Ltd.'s pursuit of high standards and commitment to customers."
+        },
+        "13": {
+            "name": "Macao Science Center",
+            "information": "Macao Science Center aims to promote science popularization and education among local adolescents, compliment tourism development in Macao and provide a regional platform for science education, convention and exhibition.The exhibitions seek to provide knowledge-oriented, scientific and interesting interactive exhibits, and allow visitors to explore science in a hands-on way.The Convention Center consists of a multi-functional Convention Hall and 4 Meeting Rooms. Two of the Meeting Rooms may be combined into one if needed."
+        },
+        "14": {
+            "name": "The University of Macau",
+            "information": "The University of Macau was founded in 1981. Its predecessor was the private University of East Asia. Through 38 years of development, UM is now not only the best university, but also the only public comprehensive university, in Macao. Over the years, the university has produced many outstanding graduates for society.The University of Macau is the first research university in Macau and the only university to fully introduce a residential college system. After moving to the Hengqin New Campus in 2014, the University of Macau has clearly targeted the transition to a research university and promoted the ‘Four Education’ model based on the ‘Four in One’ education model."
+        },
+        "15": {
+            "name": "The Macau Light and Shadow Festival",
+            "information": "The Macau Light and Shadow Festival is rich in content, in addition to light sculptures, lighting fixtures and interactive games, as well as a series of activities, including light and shadow visual art exhibitions, outdoor local concerts, outdoor film screenings and light and shadow dinners, etc., and will launch light and shadow cultural products. . The Light and Shadow Dinner was held in collaboration with two Macao restaurants to bring a special feast of light and shadow to the food, and to inject the Macau into a creative power of UNESCO's ‘City of Creative Cities’."
+        },
+        "16": {
+            "name": "The Parisian Macao",
+            "information": "The Parisian Macao is located in the Jinguang Avenue section of the Bohai City, Ouhai District, and is designed as a landmark with a half of the Eiffel Tower in Paris. Originally scheduled to open in 2015, it was postponed to open in August 2016, and the hotel opened on September 13, 2016."
+        },
+        "17": {
+            "name": "Macau Light Rail",
+            "information": "Macau Light Rail is Macau's railway transportation system and the first railway in Macau. The Macau government is expected to exceed 20 million visitors to Macau each year, plus new hotels and casinos in recent years. It is also considered that Macau's buses, taxis and related transportation networks are difficult to cope with such growth. There is a need to build a new mass transit system to alleviate traffic congestion problems and improve environmental pollution."
         }
     }
 }
